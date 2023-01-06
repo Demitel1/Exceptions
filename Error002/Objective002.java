@@ -1,6 +1,6 @@
 package Objective002;
 
-public class Task2 {
+public class Exceptions {
     public static void main(String[] args) {
         foo1();
         try {
